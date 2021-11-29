@@ -5,3 +5,7 @@ It uses [Unity](https://unity.com) game engine and the art was made using [Photo
  Hope you enjoy!
  
  <img src="Game/Assets/Images/poster.png">
+ <img src="Game/Assets/Images/scr1.png">
+ <img src="Game/Assets/Images/scr2.png">
+ <img src="Game/Assets/Images/scr4.png">
+ 
