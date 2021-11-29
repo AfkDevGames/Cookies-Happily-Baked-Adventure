@@ -4,4 +4,4 @@ It uses [Unity](https://unity.com) game engine and the art was made using [Photo
 - A short and silly story rich game. 
  Hope you enjoy!
  
- ![](Game/Assets/Images/poster.png)
+ <img src="Game/Assets/Images/poster.png"
