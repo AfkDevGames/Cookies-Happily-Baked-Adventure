@@ -10,4 +10,4 @@ It uses [Unity](https://unity.com) game engine and the art was made using [Photo
  <img src="Game/Assets/Images/scr1.png">
  
  (Since I was in a time crunch, I didn't get to clean up the code and some files, but the game works as intended)
- 
+ The main problem is with screen size. Since I couldn't fix the UI elements in time, it only works properly if you don't change the window size, and preferably play in 1920 x 1080 resolution.
